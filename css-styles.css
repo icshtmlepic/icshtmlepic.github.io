@@ -29,7 +29,7 @@ div.bg {
 	width: 80%;
 	height: 150%;
 	margin-top:-30px;
-	margin-bottom:-50px;
+	margin-bottom:auto;
 	background-image:url(Chargers_Horse.png);
 	background-size:contain;
 	background-position:center;
@@ -41,8 +41,8 @@ div.bg {
 div.title {
 	z-index:1;
 	background-color:rgba(0,0,120,0.5);
-	margin-left:-15px;
-	margin-right:-15px;
+	margin-left:-20px;
+	margin-right:-20px;
 	}
 	
 	
