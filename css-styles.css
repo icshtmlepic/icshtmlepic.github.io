@@ -1,12 +1,12 @@
 /* CSS Document */
 h1{
-	font:Verdana, Arial, Helvetica, sans-serif;
+	font:"Verdana", "Arial", "Helvetica", sans-serif;
 	color:#00CCFF;
 	font-size:38px;
 	}
 	
 li{
-	font:Verdana, Arial, Helvetica, sans-serif;
+	font:"Times New Roman", serif;
 	color:#FFFFFF;
 	font-size:15px;
 	}
@@ -25,9 +25,10 @@ h3 {
 	
 div.bg {
 	color: #737373;
-	opacity: 0.75;
+	/*opacity: 0.75; */
 	align: center;
 	width: 80%;
 	z-index: -1;
+	position:absolute;
 	}
 	
