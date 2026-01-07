@@ -2,24 +2,32 @@
 h1{
 	font:Verdana, Arial, Helvetica, sans-serif;
 	color:#00CCFF;
-	font-size:24px;
+	font-size:38px;
 	}
 	
 li{
 	font:Verdana, Arial, Helvetica, sans-serif;
 	color:#FFFFFF;
-	font-size:16px;
+	font-size:15px;
 	}
 
 a {
 	font:Verdana, Arial, Helvetica, sans-serif;
 	color:#FFFFFF;
-	font-size:16px;
+	font-size:24px;
 	}
 
 h3 {
 	font:Verdana, Arial, Helvetica, sans-serif;
 	color:#00CCFF;
-	font-size:18px;
+	font-size:30px;
+	}
+	
+div.bg {
+	color: #737373;
+	opacity: 0.75;
+	align: center;
+	width: 80%;
+	z-index: -1;
 	}
 	
