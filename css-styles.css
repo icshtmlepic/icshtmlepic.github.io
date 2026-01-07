@@ -48,7 +48,9 @@ div.title {
 	
 	
 body {
-	background-color: #475E98;
+	/*background-color: #475E98;*/
+	background-image: url('splotch_background.jpg');
+	background-size: cover;
 	}
 	
 	
