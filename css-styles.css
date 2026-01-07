@@ -36,7 +36,7 @@ div.bg {
 	background-repeat:no-repeat;
 	background-color: #737373;
 	z-index:-1;
-	padding-bottom:40px;
+	padding-bottom:50px;
 	}
 	
 div.title {
@@ -44,7 +44,6 @@ div.title {
 	background-color:rgba(0,0,120,0.5);
 	margin-left:-20px;
 	margin-right:-20px;
-	padding:7px;
 	}
 	
 	
