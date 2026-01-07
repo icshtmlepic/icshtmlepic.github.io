@@ -36,6 +36,7 @@ div.bg {
 	background-repeat:no-repeat;
 	background-color: #737373;
 	z-index:-1;
+	padding-bottom:40px;
 	}
 	
 div.title {
