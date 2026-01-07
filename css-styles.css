@@ -1,12 +1,12 @@
 /* CSS Document */
 h1{
-	font:"Verdana", "Arial", "Helvetica", sans-serif;
+	font:Verdana, Arial, Helvetica, sans-serif;
 	color:#00CCFF;
-	font-size:38px;
+	font-size:38px;	
 	}
 	
 li{
-	font:"Times New Roman", serif;
+	font:Verdana, Arial, Helvetica, sans-serif;
 	color:#FFFFFF;
 	font-size:15px;
 	}
@@ -24,11 +24,29 @@ h3 {
 	}
 	
 div.bg {
-	color: #737373;
-	/*opacity: 0.75; */
-	align: center;
+	margin-left:auto;
+	margin-right:auto;
 	width: 80%;
-	z-index: -1;
-	position:absolute;
+	height: 150%;
+	margin-top:-20px;
+	margin-bottom:-20px;
+	background-image:url(Chargers_Horse.png);
+	background-size:contain;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-color: #737373;
+	z-index:-1;
 	}
+	
+div.title {
+	z-index:1;
+	background-color:rgba(0,0,120,0.5);
+	margin-left:-15px;
+	margin-right:-15px;
+	}
+	
+body {
+	background-color: #475E98;
+	}
+	
 	
