@@ -17,6 +17,10 @@ a {
 	font-size:20px;
 	}
 
+a:hover {
+	color:#00CCFF;
+	}
+	
 h3 {
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	color:#00CCFF;
